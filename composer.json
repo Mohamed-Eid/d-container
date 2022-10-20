@@ -1,0 +1,15 @@
+{
+    "name": "bluex/d-container",
+    "autoload": {
+        "psr-4": {
+            "Bluex\\DContainer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed-Eid",
+            "email": "medoeid50@gmail.com"
+        }
+    ],
+    "require": {}
+}
